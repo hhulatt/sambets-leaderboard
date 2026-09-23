@@ -15,16 +15,16 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 8812.35,
-  "playerCount": 11,
-  "cacheUpdatedAt": "2026-09-22 03:34:39",
-  "updatedAt": "2026-09-22T03:34:40.065Z",
+  "totalWagered": 9018.05,
+  "playerCount": 13,
+  "cacheUpdatedAt": "2026-09-23 01:14:17",
+  "updatedAt": "2026-09-23T01:14:17.383Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Abbieeeeee",
       "hash": "6c541504e2787acc",
-      "wagered": 4899.45,
+      "wagered": 5010.36,
       "prize": 100
     },
     {
@@ -50,51 +50,65 @@
     },
     {
       "rank": 5,
-      "masked": "Vbro7",
-      "hash": "008d41f823f6aaa4",
-      "wagered": 34.93,
+      "masked": "cotufasZam",
+      "hash": "8b108037a4c1e93f",
+      "wagered": 97.34,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "Vbro7",
+      "hash": "008d41f823f6aaa4",
+      "wagered": 34.93,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "SAMLucky",
       "hash": "b307299f81a9f61a",
       "wagered": 20.5,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "a45gg",
       "hash": "294b59623ceea00f",
       "wagered": 16.17,
       "prize": 0
     },
     {
-      "rank": 8,
-      "masked": "cotufasZam",
-      "hash": "8b108037a4c1e93f",
-      "wagered": 15.65,
+      "rank": 9,
+      "masked": "Roberto2006",
+      "hash": "109f3b18ecf92b5d",
+      "wagered": 9.6,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "samxdevil",
       "hash": "c29c52eeb663d2a1",
       "wagered": 6.9,
       "prize": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "masked": "ayush23",
       "hash": "9c4a1cb22c4878c1",
       "wagered": 5.9,
       "prize": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "masked": "Wade7522",
       "hash": "7a4d4a30cedfa07c",
       "wagered": 4.2,
+      "prize": 0
+    },
+    {
+      "rank": 13,
+      "masked": "samgng",
+      "hash": "8859bdcaa219914a",
+      "wagered": 3.5,
       "prize": 0
     }
   ]
