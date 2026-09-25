@@ -15,23 +15,23 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 9263.26,
+  "totalWagered": 9655.22,
   "playerCount": 13,
-  "cacheUpdatedAt": "2026-09-24 03:23:53",
-  "updatedAt": "2026-09-24T03:23:53.671Z",
+  "cacheUpdatedAt": "2026-09-25 01:07:49",
+  "updatedAt": "2026-09-25T01:07:49.887Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Abbieeeeee",
       "hash": "6c541504e2787acc",
-      "wagered": 5062.31,
+      "wagered": 5211.32,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "Mrblobby",
       "hash": "d894ce9f80ec2e00",
-      "wagered": 3568.69,
+      "wagered": 3777.97,
       "prize": 60
     },
     {
@@ -45,14 +45,14 @@
       "rank": 4,
       "masked": "cotufasZam",
       "hash": "8b108037a4c1e93f",
-      "wagered": 151.67,
+      "wagered": 151.82,
       "prize": 30
     },
     {
       "rank": 5,
       "masked": "Vbro7",
       "hash": "008d41f823f6aaa4",
-      "wagered": 127.43,
+      "wagered": 147.93,
       "prize": 20
     },
     {
@@ -64,23 +64,23 @@
     },
     {
       "rank": 7,
+      "masked": "Roberto2006",
+      "hash": "109f3b18ecf92b5d",
+      "wagered": 22.6,
+      "prize": 0
+    },
+    {
+      "rank": 8,
       "masked": "SAMLucky",
       "hash": "b307299f81a9f61a",
       "wagered": 20.5,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "a45gg",
       "hash": "294b59623ceea00f",
       "wagered": 16.17,
-      "prize": 0
-    },
-    {
-      "rank": 9,
-      "masked": "Roberto2006",
-      "hash": "109f3b18ecf92b5d",
-      "wagered": 9.6,
       "prize": 0
     },
     {
@@ -108,7 +108,7 @@
       "rank": 13,
       "masked": "samgng",
       "hash": "8859bdcaa219914a",
-      "wagered": 3.5,
+      "wagered": 3.51,
       "prize": 0
     }
   ]
