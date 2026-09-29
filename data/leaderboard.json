@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 11002.98,
+  "totalWagered": 11073.56,
   "playerCount": 14,
-  "cacheUpdatedAt": "2026-09-29 02:28:15",
-  "updatedAt": "2026-09-29T02:28:15.722Z",
+  "cacheUpdatedAt": "2026-09-29 04:30:42",
+  "updatedAt": "2026-09-29T04:30:42.912Z",
   "entries": [
     {
       "rank": 1,
@@ -36,23 +36,23 @@
     },
     {
       "rank": 3,
-      "masked": "Vbro7",
-      "hash": "008d41f823f6aaa4",
-      "wagered": 207.06,
+      "masked": "cotufasZam",
+      "hash": "8b108037a4c1e93f",
+      "wagered": 222.4,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "berlinkrish",
-      "hash": "6df747b928a0cb3c",
-      "wagered": 167.71,
+      "masked": "Vbro7",
+      "hash": "008d41f823f6aaa4",
+      "wagered": 207.06,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "cotufasZam",
-      "hash": "8b108037a4c1e93f",
-      "wagered": 151.82,
+      "masked": "berlinkrish",
+      "hash": "6df747b928a0cb3c",
+      "wagered": 167.71,
       "prize": 20
     },
     {
