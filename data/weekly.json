@@ -5,6 +5,7 @@
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
+  "fullUsernames": true,
   "prizePool": 100,
   "prizes": [
     50,
@@ -13,10 +14,38 @@
     5
   ],
   "boardSize": 25,
-  "totalWagered": 0,
-  "playerCount": 0,
-  "cacheUpdatedAt": null,
-  "updatedAt": "2026-10-05T13:14:49.992Z",
-  "entries": [],
-  "_seed": "Placeholder written by new-creator.mjs so the weekly tab renders before the first scheduled refresh. The workflow overwrites this."
+  "totalWagered": 66.08,
+  "playerCount": 4,
+  "cacheUpdatedAt": "2026-10-05 13:15:13",
+  "updatedAt": "2026-10-05T13:15:13.132Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "Mrblobby",
+      "hash": "d894ce9f80ec2e00",
+      "wagered": 30.66,
+      "prize": 50
+    },
+    {
+      "rank": 2,
+      "masked": "Vbro7",
+      "hash": "008d41f823f6aaa4",
+      "wagered": 27.13,
+      "prize": 25
+    },
+    {
+      "rank": 3,
+      "masked": "cheesek",
+      "hash": "a5c1c8d8b132a437",
+      "wagered": 5.33,
+      "prize": 20
+    },
+    {
+      "rank": 4,
+      "masked": "stannskm",
+      "hash": "36c14add69a6032c",
+      "wagered": 2.96,
+      "prize": 5
+    }
+  ]
 }
