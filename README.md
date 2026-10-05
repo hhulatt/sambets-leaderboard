@@ -41,7 +41,7 @@ The board therefore keeps working if the API is down, and costs nothing to serve
 | First cycle | 2026-09-01 — earlier months are never shown as past winners |
 | Timezone | Europe/London |
 | Refresh | 2 0 * * * and 2 23 * * * (UTC) |
-| Weekly board | off — set "weekly" in the creator config to switch it on |
+| Weekly board | on — $100 across 4 places, Monday to Sunday UK time |
 | Username masking | OFF — full usernames are published |
 
 ## Go-live checklist

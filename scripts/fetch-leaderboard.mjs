@@ -43,10 +43,10 @@ const FIRST_CYCLE = '2026-09-01';
 /* A weekly board runs alongside the monthly one when the creator funds one.
    It has its own pool, its own archive and its own first cycle; everything
    else — masking, ranking, the board shape — is shared. */
-const WEEKLY_ENABLED = false;
-const WEEKLY_PRIZES = [];
+const WEEKLY_ENABLED = true;
+const WEEKLY_PRIZES = [50,25,20,5];
 const WEEKLY_BOARD_SIZE = 25;
-const WEEKLY_FIRST_CYCLE = '';
+const WEEKLY_FIRST_CYCLE = '2026-10-05';
 
 /** Today's date in the leaderboard timezone, as { year, month, day }. */
 function todayInTz() {
