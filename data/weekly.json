@@ -14,10 +14,10 @@
     5
   ],
   "boardSize": 25,
-  "totalWagered": 1156.67,
+  "totalWagered": 1162.66,
   "playerCount": 9,
-  "cacheUpdatedAt": "2026-10-09 02:45:34",
-  "updatedAt": "2026-10-09T02:45:34.744Z",
+  "cacheUpdatedAt": "2026-10-09 04:48:32",
+  "updatedAt": "2026-10-09T04:48:32.775Z",
   "entries": [
     {
       "rank": 1,
@@ -63,16 +63,16 @@
     },
     {
       "rank": 7,
-      "masked": "Roberto2006",
-      "hash": "109f3b18ecf92b5d",
-      "wagered": 3.04,
+      "masked": "UnstableGun14",
+      "hash": "0ac101331333fa6e",
+      "wagered": 7.22,
       "prize": 0
     },
     {
       "rank": 8,
-      "masked": "UnstableGun14",
-      "hash": "0ac101331333fa6e",
-      "wagered": 1.23,
+      "masked": "Roberto2006",
+      "hash": "109f3b18ecf92b5d",
+      "wagered": 3.04,
       "prize": 0
     },
     {

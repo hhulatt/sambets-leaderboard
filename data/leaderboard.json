@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 2747.54,
+  "totalWagered": 2753.53,
   "playerCount": 9,
-  "cacheUpdatedAt": "2026-10-09 02:45:34",
-  "updatedAt": "2026-10-09T02:45:34.640Z",
+  "cacheUpdatedAt": "2026-10-09 04:48:32",
+  "updatedAt": "2026-10-09T04:48:32.616Z",
   "entries": [
     {
       "rank": 1,
@@ -73,7 +73,7 @@
       "rank": 8,
       "masked": "UnstableGun14",
       "hash": "0ac101331333fa6e",
-      "wagered": 1.23,
+      "wagered": 7.22,
       "prize": 0
     },
     {
