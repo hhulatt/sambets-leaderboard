@@ -14,10 +14,10 @@
     5
   ],
   "boardSize": 25,
-  "totalWagered": 1162.66,
-  "playerCount": 9,
-  "cacheUpdatedAt": "2026-10-09 04:48:32",
-  "updatedAt": "2026-10-09T04:48:32.775Z",
+  "totalWagered": 1311.21,
+  "playerCount": 11,
+  "cacheUpdatedAt": "2026-10-10 02:03:12",
+  "updatedAt": "2026-10-10T02:03:12.176Z",
   "entries": [
     {
       "rank": 1,
@@ -30,53 +30,67 @@
       "rank": 2,
       "masked": "Mrblobby",
       "hash": "d894ce9f80ec2e00",
-      "wagered": 380.21,
+      "wagered": 453.25,
       "prize": 25
     },
     {
       "rank": 3,
       "masked": "Vbro7",
       "hash": "008d41f823f6aaa4",
-      "wagered": 107.78,
+      "wagered": 107.88,
       "prize": 20
     },
     {
       "rank": 4,
-      "masked": "stannskm",
-      "hash": "36c14add69a6032c",
-      "wagered": 51.76,
+      "masked": "samgng",
+      "hash": "8859bdcaa219914a",
+      "wagered": 73.8,
       "prize": 5
     },
     {
       "rank": 5,
-      "masked": "cotufasZam",
-      "hash": "8b108037a4c1e93f",
-      "wagered": 19.29,
+      "masked": "stannskm",
+      "hash": "36c14add69a6032c",
+      "wagered": 52.03,
       "prize": 0
     },
     {
       "rank": 6,
+      "masked": "cotufasZam",
+      "hash": "8b108037a4c1e93f",
+      "wagered": 19.37,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "cheesek",
       "hash": "a5c1c8d8b132a437",
       "wagered": 11.62,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "UnstableGun14",
       "hash": "0ac101331333fa6e",
       "wagered": 7.22,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "Roberto2006",
       "hash": "109f3b18ecf92b5d",
       "wagered": 3.04,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "masked": "YoungQueen431",
+      "hash": "4db5b51abe82f6a8",
+      "wagered": 1.25,
+      "prize": 0
+    },
+    {
+      "rank": 11,
       "masked": "a45gg",
       "hash": "294b59623ceea00f",
       "wagered": 0.04,
