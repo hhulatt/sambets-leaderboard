@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 4380.88,
+  "totalWagered": 4380.97,
   "playerCount": 13,
-  "cacheUpdatedAt": "2026-10-13 03:20:38",
-  "updatedAt": "2026-10-13T03:20:38.230Z",
+  "cacheUpdatedAt": "2026-10-13 05:41:23",
+  "updatedAt": "2026-10-13T05:41:24.011Z",
   "entries": [
     {
       "rank": 1,
@@ -59,7 +59,7 @@
       "rank": 6,
       "masked": "cotufasZam",
       "hash": "8b108037a4c1e93f",
-      "wagered": 44.76,
+      "wagered": 44.84,
       "prize": 0
     },
     {
