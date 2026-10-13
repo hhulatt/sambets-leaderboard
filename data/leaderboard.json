@@ -15,37 +15,37 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 3198.55,
-  "playerCount": 11,
-  "cacheUpdatedAt": "2026-10-12 04:35:08",
-  "updatedAt": "2026-10-12T04:35:08.304Z",
+  "totalWagered": 4380.88,
+  "playerCount": 13,
+  "cacheUpdatedAt": "2026-10-13 03:20:38",
+  "updatedAt": "2026-10-13T03:20:38.230Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Mrblobby",
       "hash": "d894ce9f80ec2e00",
-      "wagered": 1277.77,
+      "wagered": 1688.28,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "Abbieeeeee",
       "hash": "6c541504e2787acc",
-      "wagered": 1179.67,
+      "wagered": 1640.15,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "stannskm",
-      "hash": "36c14add69a6032c",
-      "wagered": 311.06,
+      "masked": "Vbro7",
+      "hash": "008d41f823f6aaa4",
+      "wagered": 547.36,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "Vbro7",
-      "hash": "008d41f823f6aaa4",
-      "wagered": 259.88,
+      "masked": "stannskm",
+      "hash": "36c14add69a6032c",
+      "wagered": 311.88,
       "prize": 30
     },
     {
@@ -71,27 +71,41 @@
     },
     {
       "rank": 8,
+      "masked": "AlexBoss21",
+      "hash": "22b27cff56f5b0f7",
+      "wagered": 17.76,
+      "prize": 0
+    },
+    {
+      "rank": 9,
       "masked": "cheesek",
       "hash": "a5c1c8d8b132a437",
       "wagered": 11.62,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "UnstableGun14",
       "hash": "0ac101331333fa6e",
       "wagered": 7.22,
       "prize": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "masked": "WhoshSamson",
+      "hash": "0e96ca460977745a",
+      "wagered": 5.3,
+      "prize": 0
+    },
+    {
+      "rank": 12,
       "masked": "YoungQueen431",
       "hash": "4db5b51abe82f6a8",
       "wagered": 1.25,
       "prize": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "masked": "a45gg",
       "hash": "294b59623ceea00f",
       "wagered": 0.04,
