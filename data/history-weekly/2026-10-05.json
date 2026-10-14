@@ -5,7 +5,7 @@
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
-  "fullUsernames": true,
+  "fullUsernames": false,
   "prizePool": 100,
   "prizes": [
     50,
@@ -16,82 +16,82 @@
   "boardSize": 25,
   "totalWagered": 1606.47,
   "playerCount": 11,
-  "cacheUpdatedAt": "2026-10-12 02:02:27",
-  "updatedAt": "2026-10-12T02:02:27.075Z",
+  "cacheUpdatedAt": "2026-10-14 15:50:52",
+  "updatedAt": "2026-10-14T15:50:52.157Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "Abbieeeeee",
+      "masked": "Ab******ee",
       "hash": "6c541504e2787acc",
       "wagered": 656.31,
       "prize": 50
     },
     {
       "rank": 2,
-      "masked": "Mrblobby",
+      "masked": "Mr****by",
       "hash": "d894ce9f80ec2e00",
       "wagered": 610.63,
       "prize": 25
     },
     {
       "rank": 3,
-      "masked": "Vbro7",
+      "masked": "V***7",
       "hash": "008d41f823f6aaa4",
       "wagered": 170.81,
       "prize": 20
     },
     {
       "rank": 4,
-      "masked": "samgng",
+      "masked": "sa**ng",
       "hash": "8859bdcaa219914a",
       "wagered": 73.8,
       "prize": 5
     },
     {
       "rank": 5,
-      "masked": "stannskm",
+      "masked": "st****km",
       "hash": "36c14add69a6032c",
       "wagered": 52.37,
       "prize": 0
     },
     {
       "rank": 6,
-      "masked": "cotufasZam",
+      "masked": "co******am",
       "hash": "8b108037a4c1e93f",
       "wagered": 19.37,
       "prize": 0
     },
     {
       "rank": 7,
-      "masked": "cheesek",
+      "masked": "ch***ek",
       "hash": "a5c1c8d8b132a437",
       "wagered": 11.62,
       "prize": 0
     },
     {
       "rank": 8,
-      "masked": "UnstableGun14",
+      "masked": "Un*********14",
       "hash": "0ac101331333fa6e",
       "wagered": 7.22,
       "prize": 0
     },
     {
       "rank": 9,
-      "masked": "Roberto2006",
+      "masked": "Ro*******06",
       "hash": "109f3b18ecf92b5d",
       "wagered": 3.04,
       "prize": 0
     },
     {
       "rank": 10,
-      "masked": "YoungQueen431",
+      "masked": "Yo*********31",
       "hash": "4db5b51abe82f6a8",
       "wagered": 1.25,
       "prize": 0
     },
     {
       "rank": 11,
-      "masked": "a45gg",
+      "masked": "a***g",
       "hash": "294b59623ceea00f",
       "wagered": 0.04,
       "prize": 0
