@@ -1,0 +1,100 @@
+{
+  "cycle": "2026-10-19",
+  "periodStart": "2026-10-19",
+  "periodEnd": "2026-10-25",
+  "cycleMode": "weekly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "fullUsernames": false,
+  "prizePool": 100,
+  "prizes": [
+    50,
+    25,
+    20,
+    5
+  ],
+  "boardSize": 25,
+  "totalWagered": 2553.41,
+  "playerCount": 11,
+  "cacheUpdatedAt": "2026-10-26 00:58:13",
+  "updatedAt": "2026-10-26T00:58:13.828Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "Mr****by",
+      "hash": "d894ce9f80ec2e00",
+      "wagered": 987.75,
+      "prize": 50
+    },
+    {
+      "rank": 2,
+      "masked": "Ab******ee",
+      "hash": "6c541504e2787acc",
+      "wagered": 892,
+      "prize": 25
+    },
+    {
+      "rank": 3,
+      "masked": "ol******02",
+      "hash": "c5f9ad9a2ee9af81",
+      "wagered": 578.09,
+      "prize": 20
+    },
+    {
+      "rank": 4,
+      "masked": "Ro*******06",
+      "hash": "109f3b18ecf92b5d",
+      "wagered": 49.32,
+      "prize": 5
+    },
+    {
+      "rank": 5,
+      "masked": "Un*********14",
+      "hash": "0ac101331333fa6e",
+      "wagered": 32.58,
+      "prize": 0
+    },
+    {
+      "rank": 6,
+      "masked": "Wh*******on",
+      "hash": "0e96ca460977745a",
+      "wagered": 7.72,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "fr*********am",
+      "hash": "324a99fa6c05faec",
+      "wagered": 5,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "V***7",
+      "hash": "008d41f823f6aaa4",
+      "wagered": 0.68,
+      "prize": 0
+    },
+    {
+      "rank": 9,
+      "masked": "st****km",
+      "hash": "36c14add69a6032c",
+      "wagered": 0.13,
+      "prize": 0
+    },
+    {
+      "rank": 10,
+      "masked": "Al******21",
+      "hash": "22b27cff56f5b0f7",
+      "wagered": 0.07,
+      "prize": 0
+    },
+    {
+      "rank": 11,
+      "masked": "ch***ek",
+      "hash": "a5c1c8d8b132a437",
+      "wagered": 0.05,
+      "prize": 0
+    }
+  ]
+}
