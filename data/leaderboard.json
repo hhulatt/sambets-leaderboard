@@ -15,31 +15,87 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 6.41,
-  "playerCount": 3,
-  "cacheUpdatedAt": "2026-11-01 04:39:16",
-  "updatedAt": "2026-11-01T04:39:16.254Z",
+  "totalWagered": 559.5,
+  "playerCount": 11,
+  "cacheUpdatedAt": "2026-11-02 02:05:09",
+  "updatedAt": "2026-11-02T02:05:09.980Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "V***7",
-      "hash": "008d41f823f6aaa4",
-      "wagered": 5.96,
+      "masked": "Ab******ee",
+      "hash": "6c541504e2787acc",
+      "wagered": 293.6,
       "prize": 100
     },
     {
       "rank": 2,
-      "masked": "Ro*******06",
-      "hash": "109f3b18ecf92b5d",
-      "wagered": 0.37,
+      "masked": "ol******02",
+      "hash": "c5f9ad9a2ee9af81",
+      "wagered": 131.69,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "ol******02",
-      "hash": "c5f9ad9a2ee9af81",
-      "wagered": 0.07,
+      "masked": "Mr****by",
+      "hash": "d894ce9f80ec2e00",
+      "wagered": 66.22,
       "prize": 40
+    },
+    {
+      "rank": 4,
+      "masked": "V***7",
+      "hash": "008d41f823f6aaa4",
+      "wagered": 35.38,
+      "prize": 30
+    },
+    {
+      "rank": 5,
+      "masked": "mo****33",
+      "hash": "e350af42ecc0dce9",
+      "wagered": 12.75,
+      "prize": 20
+    },
+    {
+      "rank": 6,
+      "masked": "Wh*******on",
+      "hash": "0e96ca460977745a",
+      "wagered": 10.16,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "Ro*******06",
+      "hash": "109f3b18ecf92b5d",
+      "wagered": 8.3,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "Un*********14",
+      "hash": "0ac101331333fa6e",
+      "wagered": 0.99,
+      "prize": 0
+    },
+    {
+      "rank": 9,
+      "masked": "co******am",
+      "hash": "8b108037a4c1e93f",
+      "wagered": 0.26,
+      "prize": 0
+    },
+    {
+      "rank": 10,
+      "masked": "Al******21",
+      "hash": "22b27cff56f5b0f7",
+      "wagered": 0.13,
+      "prize": 0
+    },
+    {
+      "rank": 11,
+      "masked": "ps*******34",
+      "hash": "6205fdb2eb586dae",
+      "wagered": 0.01,
+      "prize": 0
     }
   ]
 }
