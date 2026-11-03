@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 839.79,
+  "totalWagered": 887.3,
   "playerCount": 12,
-  "cacheUpdatedAt": "2026-11-03 03:49:58",
-  "updatedAt": "2026-11-03T03:49:58.242Z",
+  "cacheUpdatedAt": "2026-11-03 05:31:32",
+  "updatedAt": "2026-11-03T05:31:32.730Z",
   "entries": [
     {
       "rank": 1,
@@ -43,65 +43,65 @@
     },
     {
       "rank": 4,
-      "masked": "V***7",
-      "hash": "008d41f823f6aaa4",
-      "wagered": 35.38,
+      "masked": "ps*******34",
+      "hash": "6205fdb2eb586dae",
+      "wagered": 47.53,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "Ro*******06",
-      "hash": "109f3b18ecf92b5d",
-      "wagered": 19.48,
+      "masked": "V***7",
+      "hash": "008d41f823f6aaa4",
+      "wagered": 35.38,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "Ro*******06",
+      "hash": "109f3b18ecf92b5d",
+      "wagered": 19.48,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "mo****33",
       "hash": "e350af42ecc0dce9",
       "wagered": 12.75,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "Wh*******on",
       "hash": "0e96ca460977745a",
       "wagered": 10.39,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "Un*********14",
       "hash": "0ac101331333fa6e",
       "wagered": 0.99,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "co******am",
       "hash": "8b108037a4c1e93f",
       "wagered": 0.54,
       "prize": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "masked": "st****km",
       "hash": "36c14add69a6032c",
       "wagered": 0.49,
       "prize": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "masked": "Al******21",
       "hash": "22b27cff56f5b0f7",
       "wagered": 0.25,
-      "prize": 0
-    },
-    {
-      "rank": 12,
-      "masked": "ps*******34",
-      "hash": "6205fdb2eb586dae",
-      "wagered": 0.01,
       "prize": 0
     }
   ]
