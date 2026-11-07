@@ -15,44 +15,44 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 2261.71,
-  "playerCount": 13,
-  "cacheUpdatedAt": "2026-11-06 05:22:33",
-  "updatedAt": "2026-11-06T05:22:33.474Z",
+  "totalWagered": 2837.47,
+  "playerCount": 14,
+  "cacheUpdatedAt": "2026-11-07 02:31:59",
+  "updatedAt": "2026-11-07T02:31:59.584Z",
   "entries": [
     {
       "rank": 1,
       "masked": "ol******02",
       "hash": "c5f9ad9a2ee9af81",
-      "wagered": 954.2,
+      "wagered": 1192.79,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "Ab******ee",
       "hash": "6c541504e2787acc",
-      "wagered": 770.85,
+      "wagered": 859.27,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "co******am",
-      "hash": "8b108037a4c1e93f",
-      "wagered": 184.29,
+      "masked": "Ro*******06",
+      "hash": "109f3b18ecf92b5d",
+      "wagered": 218.28,
       "prize": 40
     },
     {
       "rank": 4,
       "masked": "Mr****by",
       "hash": "d894ce9f80ec2e00",
-      "wagered": 135.19,
+      "wagered": 212.35,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "Ro*******06",
-      "hash": "109f3b18ecf92b5d",
-      "wagered": 63.15,
+      "masked": "co******am",
+      "hash": "8b108037a4c1e93f",
+      "wagered": 184.29,
       "prize": 20
     },
     {
@@ -85,27 +85,34 @@
     },
     {
       "rank": 10,
+      "masked": "Ro*****22",
+      "hash": "1a939e4898eae56f",
+      "wagered": 16.46,
+      "prize": 0
+    },
+    {
+      "rank": 11,
       "masked": "Wh*******on",
       "hash": "0e96ca460977745a",
       "wagered": 10.54,
       "prize": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "masked": "st****km",
       "hash": "36c14add69a6032c",
       "wagered": 0.49,
       "prize": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "masked": "Al******21",
       "hash": "22b27cff56f5b0f7",
       "wagered": 0.35,
       "prize": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "masked": "Sa***ig",
       "hash": "1e20d90b5d21d02f",
       "wagered": 0.07,
