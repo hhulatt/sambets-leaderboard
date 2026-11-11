@@ -15,44 +15,44 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 3956.44,
+  "totalWagered": 4052.35,
   "playerCount": 14,
-  "cacheUpdatedAt": "2026-11-10 06:07:52",
-  "updatedAt": "2026-11-10T06:07:52.665Z",
+  "cacheUpdatedAt": "2026-11-11 02:31:09",
+  "updatedAt": "2026-11-11T02:31:09.484Z",
   "entries": [
     {
       "rank": 1,
       "masked": "ol******02",
       "hash": "c5f9ad9a2ee9af81",
-      "wagered": 1944.1,
+      "wagered": 1950.14,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "Ab******ee",
       "hash": "6c541504e2787acc",
-      "wagered": 1005.11,
+      "wagered": 1028.71,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "Mr****by",
-      "hash": "d894ce9f80ec2e00",
-      "wagered": 319.35,
+      "masked": "Ro*******06",
+      "hash": "109f3b18ecf92b5d",
+      "wagered": 350.06,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "Ro*******06",
-      "hash": "109f3b18ecf92b5d",
-      "wagered": 297.63,
+      "masked": "Mr****by",
+      "hash": "d894ce9f80ec2e00",
+      "wagered": 319.35,
       "prize": 30
     },
     {
       "rank": 5,
       "masked": "co******am",
       "hash": "8b108037a4c1e93f",
-      "wagered": 201.3,
+      "wagered": 201.39,
       "prize": 20
     },
     {
@@ -92,30 +92,30 @@
     },
     {
       "rank": 11,
+      "masked": "Sa***ig",
+      "hash": "1e20d90b5d21d02f",
+      "wagered": 13.85,
+      "prize": 0
+    },
+    {
+      "rank": 12,
       "masked": "Wh*******on",
       "hash": "0e96ca460977745a",
       "wagered": 10.54,
       "prize": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "masked": "st****km",
       "hash": "36c14add69a6032c",
       "wagered": 0.49,
       "prize": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "masked": "Al******21",
       "hash": "22b27cff56f5b0f7",
       "wagered": 0.35,
-      "prize": 0
-    },
-    {
-      "rank": 14,
-      "masked": "Sa***ig",
-      "hash": "1e20d90b5d21d02f",
-      "wagered": 0.1,
       "prize": 0
     }
   ]
